@@ -1,0 +1,1 @@
+void better_quick_sort_wrapper(int *A,int n, int threads);
